@@ -1,0 +1,1 @@
+{"name":"Local: union&intersection","url":"c:\\apna C++\\union&intersection.cpp","tests":[{"id":1667129580264,"input":"3 4\n1 2 3\n2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\apna C++\\union&intersection.cpp","group":"local","local":true}

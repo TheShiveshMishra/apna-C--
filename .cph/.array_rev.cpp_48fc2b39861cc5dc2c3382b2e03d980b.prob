@@ -1,0 +1,1 @@
+{"name":"Local: array_rev","url":"c:\\apna C++\\array_rev.cpp","tests":[{"id":1667138972003,"input":"3\n10 20 30","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\apna C++\\array_rev.cpp","group":"local","local":true}

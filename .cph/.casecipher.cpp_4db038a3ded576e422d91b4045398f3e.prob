@@ -1,0 +1,1 @@
+{"name":"Local: casecipher","url":"c:\\apna C++\\casecipher.cpp","tests":[{"id":1666966124842,"input":"5\nhello\n1","output":"ifmmp"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\apna C++\\casecipher.cpp","group":"local","local":true}

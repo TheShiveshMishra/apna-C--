@@ -1,0 +1,1 @@
+{"name":"Local: 0,1,2_arr_sort","url":"c:\\apna C++\\0,1,2_arr_sort.cpp","tests":[{"id":1667243987667,"input":"5\n0 1 2 0 1","output":"0 0 1 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\apna C++\\0,1,2_arr_sort.cpp","group":"local","local":true}

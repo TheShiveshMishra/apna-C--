@@ -1,0 +1,1 @@
+{"name":"Local: decimal_binary","url":"c:\\apna C++\\decimal_binary.cpp","tests":[{"id":1667013555502,"input":"10","output":"12"},{"id":1667020063267,"input":"67","output":"103"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\apna C++\\decimal_binary.cpp","group":"local","local":true}

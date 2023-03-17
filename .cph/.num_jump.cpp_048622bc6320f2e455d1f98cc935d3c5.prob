@@ -1,0 +1,1 @@
+{"name":"Local: num_jump","url":"c:\\apna C++\\num_jump.cpp","tests":[{"id":1667327412046,"input":"6\n4 3 2 1 2 3","output":"2"},{"id":1667328648277,"input":"7\n1 4 3 5 2 3 6","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\apna C++\\num_jump.cpp","group":"local","local":true}

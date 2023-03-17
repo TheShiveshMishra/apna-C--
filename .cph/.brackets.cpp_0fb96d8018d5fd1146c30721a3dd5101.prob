@@ -1,0 +1,1 @@
+{"name":"Local: brackets","url":"c:\\apna C++\\brackets.cpp","tests":[{"id":1667806168494,"input":"6\n()())(","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\apna C++\\brackets.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: chicken","url":"c:\\apna C++\\chicken.cpp","tests":[{"id":1667407651884,"input":"5","output":"81"},{"id":1667407660719,"input":"6","output":"243"},{"id":1667407672657,"input":"7","output":"726"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\apna C++\\chicken.cpp","group":"local","local":true}
